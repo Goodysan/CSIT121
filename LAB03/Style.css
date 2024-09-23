@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+.reflections{color:rgb(141, 17, 69)}
+
+#myHeader {
+    background-color: lightcoral;
+    color: orangered;
+    padding: 20px;
+    text-align: center;
